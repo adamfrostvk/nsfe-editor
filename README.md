@@ -4,7 +4,7 @@ Just a dumb lil' tool for editing the tags of an NSFE file.
 
 ## Downloads
 
-See the [releases tab](https://github.com/jprjr/nsfe-editor/releases)
+See the [releases tab](https://github.com/adamfrostvk/nsfe-editor/releases)
 
 ## Screenshots
 
